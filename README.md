@@ -37,10 +37,9 @@
 ---
 
 ### 🌐 Connect with Me
-<div align="left">
+<div align="center">
 
-[**Portfolio:**](https://nabilinfo.rf.gd)  
-[Facebook:](https://www.facebook.com/nazrul1835/)
+[**Portfolio**](https://nabilinfo.rf.gd)  [**Facebook**](https://www.facebook.com/nazrul1835/)
 **Email:** nazrulislam1835@gmail.com
 
 </div>
