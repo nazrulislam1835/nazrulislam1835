@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Hey there, I'm **Nazrul Islam Nabil**  
 
-<!--
-**nazrulislam1835/nazrulislam1835** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Professional Web Developer** | 🌍 **Tech Researcher**  
+🚀 Learning, exploring & creating meaningful solutions through technology  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+- 🔭 Currently exploring **modern web technologies**  
+- 🌱 Always improving my skills in **HTML, CSS, JavaScript, and Python**  
+- 💡 Passionate about building creative and impactful digital experiences  
+- 🎯 Goal: To contribute to **open-source projects** and inspire others through code  
+- ⚡ Fun fact: I can spend hours debugging… but still enjoy every second 😄  
+
+---
+
+### 🧰 Tech Stack
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+
+![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazrulIslamNabil&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazrulIslamNabil&layout=compact&theme=radical)
+
+</div>
+
+---
+
+### 🌐 Connect with Me
+<div align="center">
+
+🌎 **Portfolio:** [nabilinfo.rf.gd](https://nabilinfo.rf.gd)  
+💼 **LinkedIn:** [linkedin.com/in/nazrulislamnabil](https://linkedin.com/in/nazrulislamnabil) _(optional — you can add yours later)_  
+📧 **Email:** yourname@example.com _(optional — replace with your contact)_
+
+</div>
+
+---
+
+### ✨ "Code is like art — it speaks when words fall short." ✨
+
+⭐️ *If you like my work, consider giving a star to my projects!*
