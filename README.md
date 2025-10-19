@@ -37,11 +37,11 @@
 ---
 
 ### 🌐 Connect with Me
-<div align="center">
+<div align="left">
 
-🌎 **Portfolio:** [nabilinfo.rf.gd](https://nabilinfo.rf.gd)  
-💼 **LinkedIn:** [linkedin.com/in/nazrulislamnabil](https://linkedin.com/in/nazrulislamnabil) _(optional — you can add yours later)_  
-📧 **Email:** yourname@example.com _(optional — replace with your contact)_
+[**Portfolio:**](https://nabilinfo.rf.gd)  
+[Facebook:](https://www.facebook.com/nazrul1835/)
+**Email:** nazrulislam1835@gmail.com
 
 </div>
 
