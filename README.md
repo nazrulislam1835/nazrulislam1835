@@ -26,16 +26,6 @@
 
 ---
 
-### 📊 GitHub Project
-<div align="center">
-
-![Art and Craft Supplies Analysis](https://github.com/nazrulislam1835/Art-and-Craft-Supplies-Analysis)  
-![Solar System Animation](https://github.com/nazrulislam1835/Solar-System-Animation)
-
-</div>
-
----
-
 ### 🌐 Connect with Me
 <div align="center">
 
