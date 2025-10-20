@@ -26,11 +26,11 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Project
 <div align="center">
 
-![Nabil's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazrulIslamNabil&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NazrulIslamNabil&layout=compact&theme=radical)
+![Art and Craft Supplies Analysis](https://github.com/nazrulislam1835/Art-and-Craft-Supplies-Analysis)  
+![Solar System Animation](https://github.com/nazrulislam1835/Solar-System-Animation)
 
 </div>
 
